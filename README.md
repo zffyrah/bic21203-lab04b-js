@@ -1,10 +1,10 @@
-BIC 21203 Web Development
+### BIC 21203 Web Development
 Lab 4b: Client-Side Scripting (JSON and jQuery)
 Name: Nur Zafirah binti Rifai
 Matric No.: AI240054
 Section: 4
 
-Setup Instructions
+### Setup Instructions
 1. Download or clone this GitHub repository.
 2. Open the project folder using Visual Studio Code.
 3. Install the Live Server extension in VS Code.
@@ -16,18 +16,19 @@ Setup Instructions
 
     *Note: Do not open books.html directly using file://. Use Live Server to ensure the fetch() function works correctly.*
 
-   Scrennshots
+### Scrennshots
 
-   Question 1: JSON Data
-
-
-
-   Question 2: Retrieve and Display JSON
+Question 1: JSON Data
+   ![Q1 - books.json](books-json.png)
 
 
+Question 2: Retrieve and Display JSON
+   ![Q2 - Book Information](books-output.png)
 
-   Question 3: jQuery DOM Manipulation
 
+Question 3: jQuery DOM Manipulation
+   ![Q3 - jQuery DOM](jquery-dom.png)
+   ![Q3 - jQuery Output](jquery-output.jpeg)
 
 
    
