@@ -16,14 +16,16 @@ Section: 4
 
     *Note: Do not open books.html directly using file://. Use Live Server to ensure the fetch() function works correctly.*
 
-### Scrennshots
+### Screenshots
 
 Question 1: JSON Data
    ![Q1 - books.json](books-json.png)
 
 
+
 Question 2: Retrieve and Display JSON
    ![Q2 - Book Information](books-output.png)
+
 
 
 Question 3: jQuery DOM Manipulation
