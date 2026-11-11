@@ -28,7 +28,7 @@ Question 2: Retrieve and Display JSON
 
 Question 3: jQuery DOM Manipulation
    ![Q3 - jQuery DOM](jquery-dom.png)
-   ![Q3 - jQuery Output](jquery-output.jpeg)
+   ![Q3 - jQuery Output](jquery-output.jpg)
 
 
    
