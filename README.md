@@ -24,6 +24,8 @@ Question 1: JSON Data
 
 
 Question 2: Retrieve and Display JSON
+   ![Q2 - Book Information HTML Code](books-html(1).png)
+   ![Q2 - Book Information HTML Code](books-html(2).png)
    ![Q2 - Book Information](books-output.png)
 
 
